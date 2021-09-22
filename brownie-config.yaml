@@ -1,0 +1,4 @@
+# https://eth-brownie.readthedocs.io/en/latest/config.html#config
+
+dependencies:
+  - OpenZeppelin/openzeppelin-contracts@4.3.2
